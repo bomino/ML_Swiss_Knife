@@ -342,7 +342,7 @@ def train_with_cv(X, y, model, params, cv=5):
 For additional support:
 - Create an issue on GitHub
 - Check the FAQ section
-- Email support@example.com
+- Email Bomino@mlawali.com
 
 ---
 Last updated: January 2024
